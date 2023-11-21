@@ -1,0 +1,27 @@
+header {
+    background-color: black;
+    color: white;
+    text-align: center;
+}
+
+.site {
+    color: chartreuse;
+    background-color: navy;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.project {
+    background-color: aquamarine;
+}
+
+main {
+    background-color: lightgrey;
+    padding: 1em;
+}
+
+body {
+    background-image: url("./record.png");
+    background-repeat: repeat;
+    margin: 0;
+}
+
